@@ -21,7 +21,7 @@
 
           </path>
         </g>
-      </svg><img alt="" draggable="false" src="https://abs.twimg.com/sticky/illustrations/lohp_en_1302x955.png" class="css-9pa8cd">
+      </svg>
     </div>
 
     <div class="content">
