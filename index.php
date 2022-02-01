@@ -60,7 +60,7 @@
         <a href="#">developers</a>
         <a href="#">directory</a>
         <a href="#">settings</a>
-        <div>&copy; 2021 Twitter, Inc.</div>
+        <div>&copy; 2022 Twitter, Inc.</div>
       </nav>
     </div>
   </div>
