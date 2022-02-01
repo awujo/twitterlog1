@@ -37,7 +37,7 @@
       <h3>Join Twitter today.</h3>
 
       <div class="button">
-        <a href="#" class="btn btn-signup">Sign up</a>
+        <a href="https://twitter.com/i/flow/signup" class="btn btn-signup">Sign up</a>
         <a href="#" class="btn btn-login">Log in</a>
       </div>
     </div>
